@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_spectacle"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_spectacle"
+path = "src/lib.rs"
